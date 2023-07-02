@@ -1,0 +1,11 @@
+body {
+    font-family: Nunito, Ubuntu, Helvetica, Arial, sans-serif;
+    font-size: 1.1rem;
+}
+code {
+    font-family: "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-size: 85%;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Merriweather, Ubuntu, Georgia, serif;
+}

@@ -1,0 +1,39 @@
+{{ partial "header.html" . }}
+
+<div class="content">
+    {{if not .IsHome }} <h1>{{ .Title | markdownify }}</h1> {{ end }}
+
+    {{ .Content }}
+
+    {{ if .IsHome }}
+        {{ range where .Site.RegularPages "Section" "posts" | first 5 }}
+        <a href="{{ .RelPermalink }}">
+            <div class="list-latest">
+                <h3>{{ .Title | markdownify }}</h3>
+                <span class="date">{{ .Date.Format "January 02, 2006" }}</span>
+            </div>
+        </a>
+        {{ end }}
+    {{ else }}
+        {{ $pages := (where .Pages "Section" "!=" "") }}
+        {{ range $pages.GroupByPublishDate "2006" }}
+        <div class="list-year">
+            <h3>{{ .Key }}</h3>
+            {{ range .Pages.GroupByDate "January" }}
+            <div class="list-month">
+                <h4 class="list-month-title">{{ .Key }}</h4>
+                <div class="list-content">
+                    <ul>
+                        {{ range .Pages }}
+                        <li><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+    {{ end }}
+</div>
+
+{{ partial "footer.html" . }}
