@@ -63,7 +63,7 @@ thead, tfoot, tr:nth-child(even) { background: var(--chalk-black-2); }
     border-radius: 5px;
     background-color: var(--chalk-black-2);
 }
-.list-latest h3 { line-height: 0; }
+/* .list-latest h3 { line-height: 0; } */
 .list-latest span { font-size: small; }
 
 footer { min-height: 4vh; text-align: center; }
@@ -77,6 +77,13 @@ footer { min-height: 4vh; text-align: center; }
     padding: 10px 0;
 }
 .list-month-title { min-width: 120px; }
+
+/* Images */
+img[src$='#me-photo'] {
+    max-width:15%;
+    min-width:40px;
+    float:right;
+}
 
 /* General variables */
 :root {

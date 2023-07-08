@@ -1,14 +1,7 @@
 baseurl: "/"
 languageCode: "en-us"
 title: "Profesor Paiche"
-googleAnalytics: ""
-disqusShortname: ""
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
-
-permalinks:
-  note: "/note/:year/:month/:day/:slug/"
-  post: "/post/:year/:month/:day/:slug/"
 
 menu:
   main:
@@ -34,10 +27,3 @@ menu:
 params:
   description: "A simple and minimal personal blog where I share the stuff I do."
   footer: "Dante Castro - {Year} | [Github](https://github.com/profesorpaiche)"
-
-markup:
-  highlight:
-    codeFences: false
-  goldmark:
-    renderer:
-      unsafe: true
