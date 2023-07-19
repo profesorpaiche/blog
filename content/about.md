@@ -1,33 +1,87 @@
 ---
-author: Dante Castro Garro
 title: About
+author: Dante Castro Garro
 ---
 
-I am just a guy from Peru that likes do some programming stuff, dealing with some data (if it is climate data, better), and ~~a frustrated artist~~ trying to do some cool figures.
+![Yopo](/img/me_pixel.png#me-photo)
 
-## How it started
+I am just a guy from Peru who likes programming, playing with data (if it is
+climate data, better), and making cool figures. Currently, I am a PhD candidate
+at the Climate Service Center Germany (GERICS), working on urban climate
+modelling of biometeorological variables. I have just started so _you_ probably
+know more about this topic than I do.
 
-I started programming back in university and my first programming language was Fortran. While some of my friends were struggling understanding this old language (and old professor), I don't know how but it just _clicked_ with me. Writing orders, compiling, and watching the terminal spit out some gibberish was so amusing to see, don't know why. Then, I was able to create a very basic and ugly temperature figure with GrADS (my second "programming language"). With these two I knew that **programming** and **visualization** was something I wanted to do.
+## Academic background
 
+I studied Meteorology at the _Universidad Nacional Agraria La Molina_ in Peru,
+where I started to like programming and climate, and a master's in climate
+at the _Universität Hamburg_. Also, I conducted two research projects for my
+bachelor's and master's theses. The first one investigated the effect of
+climate on malaria using temporal (wavelet analysis) and spatial (machine
+learning) techniques. The second research focused on the variability of extreme
+temperatures (heat and cold waves) and a tiny analysis of the impacts on
+mortality. As you can see, I also lean a bit towards epidemiology because
+I find the links to climate interesting.
+
+## Work experience
+
+I have experience in many different areas, from rainfall analysis and water
+resource management to epidemiology and dashboard development.
+
+- **Water resources data analysis:**
+
+I started working at the National Water Authority in 2015. My main tasks were
+to clean precipitation data, analyze extreme rainfall events, and monitor the
+current droughts and the state of the El Niño Southern Oscillation (ENSO). All
+of this was important for the management of the country's water resources, as
+rainfall is the main source of water for rivers, lakes, and reservoirs.
+
+- **Monitoring of extreme events:**
+
+During the summer of 2015-16, I was dispatched to the National Emergency
+Operations Center to help monitor extreme events (severe storms, flash floods,
+and landslides) related to the 2015-16 El Niño. Additionally, I helped develop
+statistical models to predict the increases in river flows and develop an early
+warning system based on weather stations.
+
+- **Weather data for malaria modelling:**
+
+In the autumn of 2016, I moved to the General Epidemiology Directorate for
+a short time to support the development of malaria models based on weather
+data. The idea was to use current and forecast weather data to predict the
+incidence rate of malaria through statistical models.
+
+- **Teaching Assistant:**
+
+From 2017 to 2019, I worked as a teaching assistant at the _Universidad
+Nacional Agraria La Molina_. I was responsible for the practical lectures on
+programming, climate statistics, and remote sensing. I also assisted in the
+management of the "Alexander von Humbolt" meteorological observatory and the
+Laboratory of Remote Sensing in Meteorology.
+
+- **Conceptualisation of the Water Resource Management Tool:**
+
+Around mid 2019, I returned to the National Water Agency for a few months to
+conceptualise a set of water resource management toolboxes to be used by
+decision makers. The tools I was responsible for were related to Dam management,
+Aquifer management, Extreme weather events, and Climate Change.
+
+- **Dengue, COVID-19, and data management:**
+
+From 2019 to 2020, I worked at the Peruvian Center for Disease Control.
+Initially, my work focused on analysing climate and its impact on dengue.
+However, COVID-19 started and we were severely understaffed to control the
+pandemic, so I had to drop whatever I was doing in order to help the team.
+I was good with computers, data cleaning, and Linux, so I set up a virtual
+server to process all the data we had. The server also helped with
+modelling and automating many processes. Then, I started helping with the
+analysis of COVID-19 data and developing dashboards to present all the
+data we had.
+
+- **PhD in urban climate modelling:**
+
+I am currently doing my PhD at GERICS. I guess you could call it a job...
+
+<!--
 {{< img mouse="This started everything... quite embarrassing" src="/img/first.jpg" >}}
-
-## And after that?
-
-Right after finishing the university, I got a job at the Peruvian National Water Authority. Here I was in charge of the precipitation data, cleaning it up and making some figures. I got to know people from whom I learnt the basics of process automation. I was also in charge of monitoring El Niño Southern Oscillation, and I got to like it. Because of that, I was part of the National Operation Center for Emergencies.
-
-After this I moved for a short period of time to work on a small web-app that facilitates getting weather data at the General Directorate of Epidemiology (which became CDC, more on that later). Although the job couldn't be finished due to political reasons, the web-app is still up and you can check it [here](https://danteca.shinyapps.io/VisMet/) if you are curious.
-
-I ~~was forced~~ decided to take some time of from working and just finish my bachelor's thesis. After working on that, I successfully defend my research by the beginning of 2017. Just after the defense, my supervisor offered me a position as a teaching assistant. Although the payment wasn't the best, I accepted just because of my curiosity about teaching. I spend the next two years as teaching technical skills to students from the meteorology and environmental engineering programs. I would like to go into details about this period of my life, but it will take way to much time and this description is already long. Let's just move on.
-
-It is 2019 and I went back to the National Water Authority for 3 months. I got to work in a very interesting project where the idea was the design of a toolbox for decision-makers. However, a change in the director meant a change of plans so I move out.
-
-Again, a new project between climate and epidemiology appeared at the Peruvian Center for Disease Control (CDC). Funny how my life revolved around the university, water management, and epidemiology. Anyway, it was late 2019 and I was working on climate as a driver for dengue spread in the south of Peru. But in 2020, COVID-19 became a national thread and the CDC was in charge of controlling the disease spread. Since I was not someone with a background in epidemiology, I tried to make myself useful by doing anything people would required regarding data. This is how I started to set up and maintain a virtual server where we could clean all the data we received (which was a lot). I had to learn by myself how to manage a server from almost zero (I already knew Linux, which made things much easier). We tried our best to control de pandemic and we manage to be the country with the highest mortality rate! (what an achievement...).
-
-
-## Back to studies
-
-In the middle of the pandemic (mid 2020), with very little knowledge about another continent, and even less about the language, I decided to retake my studies and follow a master program in Germany. This was the international program of Integrated Climate System Sciences (such a long name) at the University of Hamburg. It was ... quite an experience. After two and a half years I finished the program with the defense of my master's thesis about extreme temperature events and its effects over mortality in Peru.
-
-## So now ...
-
-I few months after the master (or a few months ago), I got accepted for a Ph.D. position at the Climate Service Center Germany (GERICS), which is were I am right now. The topic is about urban climate modeling. I cannot talk too much about this yet, since I am only 3 months in, but maybe you will see some post related to that in my blog.
+-->
