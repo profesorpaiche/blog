@@ -2,8 +2,6 @@
 title: Home
 ---
 
-![Yopo](/img/me_pixel.png#me-photo)
-
 # Welcome!
 
 > This is my personal blog where I write about climate, coding, and other
