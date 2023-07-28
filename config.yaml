@@ -20,9 +20,9 @@ menu:
     - name: Posts
       url: "posts/"
       weight: 5
-    - name: Notes
-      url: "notes/"
-      weight: 6
+    # - name: Notes
+    #   url: "notes/"
+    #   weight: 6
 
 params:
   description: "A simple and minimal personal blog where I share the stuff I do."
