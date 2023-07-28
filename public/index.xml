@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Profesor Paiche</title>
+    <link>https://profepaiche.com/</link>
+    <description>Recent content in Home on Profesor Paiche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepaiche.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting point</title>
+      <link>https://profepaiche.com/posts/starting_point/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://profepaiche.com/posts/starting_point/</guid>
+      <description>This is the my first entry in this blog, just to mark the starting point. I am writing this in a train while returning &amp;ldquo;home&amp;rdquo; and at this moment, I don&amp;rsquo;t know how the blog will develop. I have some ideas of what I want to share here, but not a concrete plan. Perhaps this will only last a few months until I drop it like many other projects. In any case, what I want to show here are:</description>
+    </item>
+    
+    <item>
+      <title>Identifying, attributing, and overcoming common data quality issues of manned station observation</title>
+      <link>https://profepaiche.com/reviews/hunziker-2017/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://profepaiche.com/reviews/hunziker-2017/</guid>
+      <description>Information Identifying, attributing, and overcoming common data quality issues of manned station observations
+ Authors: Hunziker et al. Year: 2017 Journal: International Journal of Climatology DOI: 10.1002/joc.5037 Tags:  [Pe] Peru. [WS] Weather stations. [DQ] Data quality.    Notes Introduction To ensure high quality of climatological analysis (such as trends and extremes), the need of high quality data is a must. As a consequence, quality control becomes then an important step to do.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://profepaiche.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://profepaiche.com/about/</guid>
+      <description>I am just a guy from Peru who likes programming, playing with data (if it is climate data, better), and making cool figures. Currently, I am a PhD candidate at the Climate Service Center Germany (GERICS), working on urban climate modelling of biometeorological variables. I have just started so you probably know more about this topic than I do.
+Academic background I studied Meteorology at the Universidad Nacional Agraria La Molina in Peru, where I started to like programming and climate, and a master&amp;rsquo;s in climate at the Universität Hamburg.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random on Profesor Paiche</title>
+    <link>https://profepaiche.com/tags/random/</link>
+    <description>Recent content in Random on Profesor Paiche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepaiche.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting point</title>
+      <link>https://profepaiche.com/posts/starting_point/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://profepaiche.com/posts/starting_point/</guid>
+      <description>This is the my first entry in this blog, just to mark the starting point. I am writing this in a train while returning &amp;ldquo;home&amp;rdquo; and at this moment, I don&amp;rsquo;t know how the blog will develop. I have some ideas of what I want to share here, but not a concrete plan. Perhaps this will only last a few months until I drop it like many other projects. In any case, what I want to show here are:</description>
+    </item>
+    
+  </channel>
+</rss>

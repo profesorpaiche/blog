@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stations on Profesor Paiche</title>
+    <link>https://profepaiche.com/tags/stations/</link>
+    <description>Recent content in Stations on Profesor Paiche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://profepaiche.com/tags/stations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identifying, attributing, and overcoming common data quality issues of manned station observation</title>
+      <link>https://profepaiche.com/reviews/hunziker-2017/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://profepaiche.com/reviews/hunziker-2017/</guid>
+      <description>Information Identifying, attributing, and overcoming common data quality issues of manned station observations
+ Authors: Hunziker et al. Year: 2017 Journal: International Journal of Climatology DOI: 10.1002/joc.5037 Tags:  [Pe] Peru. [WS] Weather stations. [DQ] Data quality.    Notes Introduction To ensure high quality of climatological analysis (such as trends and extremes), the need of high quality data is a must. As a consequence, quality control becomes then an important step to do.</description>
+    </item>
+    
+  </channel>
+</rss>
